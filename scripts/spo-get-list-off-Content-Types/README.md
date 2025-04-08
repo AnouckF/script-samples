@@ -81,4 +81,3 @@ Write-Host "Results exported to $OutputFile" -ForegroundColor Green
 | [Anouck Fierens](https://github.com/anouckf) |
 
 [!INCLUDE [DISCLAIMER](../../docfx/includes/DISCLAIMER.md)]
-<img src="https://m365-visitor-stats.azurewebsites.net/spo-export-checked-out-files-in-all-sites-associated-with-a-hub-site-to-csv" aria-hidden="true" />
